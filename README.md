@@ -19,7 +19,7 @@
 
 #### Clone the application
 ``````
-git clone https://github.com/Lowest-Common-Ancestor-In-Binary-Search-Tree.git
+git clone https://github.com/knoldus/Lowest-Common-Ancestor-In-Binary-Search-Tree.git
 ``````
 
 ### *  Build and run the app using maven
