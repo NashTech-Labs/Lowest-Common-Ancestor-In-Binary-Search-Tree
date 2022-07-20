@@ -132,12 +132,12 @@ public class MainLCA {
 		/* Construct the following tree
 				  18
 				/   \
-			   /     \
-			  11     25
-			 / \     / \
-			/   \   /   \
-		   8    19 16   35
-		*/
+			       /     \
+			      11     25
+			     / \     / \
+			    /   \   /   \
+		           8    19 16   35
+		 */
 
         Node root = null;
         for (int key: keys) {
